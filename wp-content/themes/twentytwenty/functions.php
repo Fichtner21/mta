@@ -805,7 +805,7 @@ function teams_type() {
 		'has_archive' => true,
 		'show_in_nav_menus' => true,
 		'supports' => array(),
-	  	'menu_icon' => 'dashicons-admin-links',
+	  	'menu_icon' => 'dashicons-groups',
 		'show_in_rest' => true
 	));
 	register_taxonomy(
